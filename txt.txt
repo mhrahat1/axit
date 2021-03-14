@@ -1,0 +1,8 @@
+#ff9b51
+
+#86878b
+<script src="https://kit.fontawesome.com/5a0a151e71.js" crossorigin="anonymous"></script>
+#333333
+453+303
+<i class="far fa-keyboard"></i>
+<i class="fas fa-bolt"></i>
